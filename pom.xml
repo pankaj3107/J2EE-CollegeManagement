@@ -3,5 +3,5 @@
   <groupId>J2EE-CollegeManagement</groupId>
   <artifactId>J2EE-CollegeManagement</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 </project>
